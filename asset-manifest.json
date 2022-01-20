@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.28b4c54c.chunk.css",
-    "main.js": "/static/js/main.e763e5ac.chunk.js",
-    "main.js.map": "/static/js/main.e763e5ac.chunk.js.map",
+    "main.css": "/static/css/main.c29f479a.chunk.css",
+    "main.js": "/static/js/main.6374ce5f.chunk.js",
+    "main.js.map": "/static/js/main.6374ce5f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.45a7cc9e.js",
     "runtime-main.js.map": "/static/js/runtime-main.45a7cc9e.js.map",
     "static/js/2.266344a4.chunk.js": "/static/js/2.266344a4.chunk.js",
     "static/js/2.266344a4.chunk.js.map": "/static/js/2.266344a4.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.28b4c54c.chunk.css.map": "/static/css/main.28b4c54c.chunk.css.map",
+    "static/css/main.c29f479a.chunk.css.map": "/static/css/main.c29f479a.chunk.css.map",
     "static/js/2.266344a4.chunk.js.LICENSE.txt": "/static/js/2.266344a4.chunk.js.LICENSE.txt",
-    "static/media/styles.module.css": "/static/media/lightning.bf65ed17.jpg"
+    "static/media/lightning.bf65ed17.jpg": "/static/media/lightning.bf65ed17.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.45a7cc9e.js",
     "static/js/2.266344a4.chunk.js",
-    "static/css/main.28b4c54c.chunk.css",
-    "static/js/main.e763e5ac.chunk.js"
+    "static/css/main.c29f479a.chunk.css",
+    "static/js/main.6374ce5f.chunk.js"
   ]
 }
